@@ -2,6 +2,7 @@ from gameparts import Board
 from inspect import getsource
 from gameparts.exceptions import FieldIndexError, CellOccupiedError
 
+
 def main():
    
     game = Board()
